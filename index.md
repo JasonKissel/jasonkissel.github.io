@@ -1,5 +1,5 @@
 ## Welcome to Jason Kissel's GitHub Page ##
-[index,html](https://github.com/JasonKissel/jasonkissel.github.io/index.html)
+[index.html](https://github.com/JasonKissel/jasonkissel.github.io/index.html)
 
 ## Welcome to GitHub Pages
 
