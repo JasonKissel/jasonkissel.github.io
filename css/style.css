@@ -50,8 +50,11 @@ i {
 }
 
 .banner {
+	position: relative;
+	top: 10px;
+	left: -14px;
 	height: 19px;
-	width: 100%;
+	width: 103.376%;
 	background: linear-gradient(to right, #58e53a, #378eda);
 }
 
