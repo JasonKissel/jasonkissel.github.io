@@ -1,0 +1,78 @@
+html, body, ul {
+  margin: 0;
+  padding: 0;
+	background-color: #3e3e3e;
+	font-family: 'PT Sans', sans-serif;
+}
+
+h1, p {
+	margin-bottom: 0;
+}
+
+h1 {
+	color: #31bb4b;
+}
+
+p {
+	margin-top: 40px;
+}
+
+header {
+	position: fixed;
+	top:0;
+	width: 100%;
+  height: 150px;
+	background-color: #424242;
+	font-size: 3em;
+	color: #ADADAD;
+}
+
+i {
+	margin-top: 0;
+}
+
+.menu_links {
+	position: relative;
+	margin: 16px;
+}
+
+.logo {
+	display: inline-block;
+	width: 760px;
+	font-size: 1.5em;
+}
+
+.material-icons {
+	margin: 0 12px 12px 12px !important;
+	float: right;
+	font-size: 2em !important;
+	color: #ADADAD;
+}
+
+.banner {
+	height: 19px;
+	width: 100%;
+	background: linear-gradient(to right, #58e53a, #378eda);
+}
+
+
+main {
+	margin-top: 140px;
+	font-size: 2em;
+	background-color: #3e3e3e;
+	background-image: url('Desktop2.mobile.png');
+}
+
+footer {
+	padding: 16px;
+  height: 98px;
+	font-size: 2em;
+	text-align: center;
+	background-color: #31BB4B;
+}
+
+article {
+	margin: 20px;
+	padding: 20px;
+	background-color: rgba(255,255,255,.75);
+}
